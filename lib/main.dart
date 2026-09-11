@@ -1,4 +1,3 @@
-import 'package:bmi_application/Bmi_page.dart';
 import 'package:bmi_application/first_page.dart';
 import 'package:flutter/material.dart';
 
